@@ -1,0 +1,8 @@
+services:
+  app:
+    image: ktechnik/zadanie4:latest
+    build: .
+    ports:
+      - "1323:1323"
+    volumes:
+      - ./data:/app/data
