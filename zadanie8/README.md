@@ -2,11 +2,11 @@
 
 Obrazy:
 - Frontend: https://hub.docker.com/repository/docker/ktechnik/zad8-frontend/general
-- Serwer: https://hub.docker.com/repository/docker/ktechnik/zad8-backend/general
+- Backend: https://hub.docker.com/repository/docker/ktechnik/zad8-backend/general
 
-:white_check_mark: logowanie przez aplikację serwerową (bez Oauth2)
+:white_check_mark: 3.0 logowanie przez aplikację serwerową (bez Oauth2)
 
-:white_check_mark: rejestracja przez aplikację serwerową (bez Oauth2)
+:white_check_mark: 3.5 rejestracja przez aplikację serwerową (bez Oauth2)
 
 :white_check_mark: 4.0 ogowanie via Google OAuth2
 
