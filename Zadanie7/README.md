@@ -1,7 +1,9 @@
 https://github.com/Ktechnik12/app-client
 https://github.com/Ktechnik12/app-server
 
-
+Obrazy: 
+- https://hub.docker.com/repository/docker/ktechnik/zad7-server/general
+- https://hub.docker.com/repository/docker/ktechnik/zad7-client/general
 
 :white_check_mark: 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita
 
