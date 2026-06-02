@@ -1,0 +1,15 @@
+services:
+
+  gpt-service:
+    build: ./gpt-service
+    image: ktechnik/zad9-gpt:latest
+    ports:
+      - "8000:8000"
+
+  bot-kotlin:
+    build: ./bot-kotlin
+    image: ktechnik/zad9-bot:latest
+    depends_on:
+      - gpt-service
+    environment:
+      DISCORD_TOKEN: ${DISCORD_TOKEN}
