@@ -1,4 +1,6 @@
-Obraz: https://hub.docker.com/repository/docker/ktechnik/zadanie3/general
+**Zadanie 3**
+
+[Link do obrazu](https://hub.docker.com/repository/docker/ktechnik/zadanie3/general)
 
 :white_check_mark: 3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord
 
@@ -10,6 +12,11 @@ Obraz: https://hub.docker.com/repository/docker/ktechnik/zadanie3/general
 
 :x: 5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack lub Messenger
 
+
+[Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/e35aa7815c8f7ecef07153768b0eac53086a25a5)
+
+
+Nagranie:
 
 # Aplikacja
 

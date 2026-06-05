@@ -1,8 +1,8 @@
-# Zadanie 9
+**Zadanie 9**
 
 Obrazy:
-- Bot: https://hub.docker.com/repository/docker/ktechnik/zad9-bot/general
-- GPT: https://hub.docker.com/repository/docker/ktechnik/zad9-gpt/general
+- [Bot](https://hub.docker.com/repository/docker/ktechnik/zad9-bot/general)
+- [GPT](https://hub.docker.com/repository/docker/ktechnik/zad9-gpt/general)
 
 :white_check_mark: 3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z chatGPT
 
@@ -14,4 +14,8 @@ Obrazy:
 
 :x: 5.0 filtrowanie odpowiedzi po sentymencie
 
-Nagranie: https://ujchmura-my.sharepoint.com/:f:/g/personal/kacper_krehlik_student_uj_edu_pl/IgBblYTKYo42R77oCLB3bwitAafMtTpZQKGoU_iOEOH3_d0
+
+[Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/9dc53d15d8d1e614c1797eec4710debce2dbeef2)
+
+
+[Nagranie](https://ujchmura-my.sharepoint.com/:f:/g/personal/kacper_krehlik_student_uj_edu_pl/IgBblYTKYo42R77oCLB3bwitAafMtTpZQKGoU_iOEOH3_d0)

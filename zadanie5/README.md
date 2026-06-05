@@ -1,8 +1,8 @@
-# Zadanie 5
+**Zadanie 5**
 
 Obrazy:
-- Klient: https://hub.docker.com/repository/docker/ktechnik/zadanie5-client/general
-- Serwer: https://hub.docker.com/repository/docker/ktechnik/zadanie5-server/general
+- [Klient](https://hub.docker.com/repository/docker/ktechnik/zadanie5-client/general)
+- [Serwer](https://hub.docker.com/repository/docker/ktechnik/zadanie5-server/general)
 
 :white_check_mark: 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz
 Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w
@@ -17,8 +17,13 @@ pomocą React hooks
 :white_check_mark: 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz
 kliencką na dockerze via docker-compose
 
+:x: 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS
 
-Nagranie: https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQDQIC08bHbjSo2Ahtrk13xJAS2zkokzzNP4YdOU4tNQLvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xJXbV6
+
+[Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/179d2df7cccd8c0f903ee225b7f4299be3b5ba33)
+
+
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQDQIC08bHbjSo2Ahtrk13xJAS2zkokzzNP4YdOU4tNQLvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xJXbV6)
 
 
 ## URUCHOMIENIE APLIKACJI
