@@ -1,7 +1,5 @@
 **Zadanie 1**
 
-[Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/7cc6c728c2f936c4f03c3e655055fcc547c6d89e)
-
 :white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 [Link do Docker Huba](https://hub.docker.com/repository/docker/ktechnik/python3.10/)
 
 :white_check_mark: 3.5 obraz ubuntu:24.02 z Javą w wersji 8 oraz Kotlinem [Link do Docker Huba](https://hub.docker.com/repository/docker/ktechnik/java8kotrlin/)
@@ -12,6 +10,9 @@
 
 :x: 5.0 dodać konfigurację docker-compose
 
+[Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/7cc6c728c2f936c4f03c3e655055fcc547c6d89e)
+
+<br><br>
 
 **Zadanie 2**
 
@@ -32,6 +33,7 @@
 
 [Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQCl89wKWtwfRblMFhBy4vLcAaihh67Lbhjf0kSjMjNIapk?e=9XWLf0)
 
+<br><br>
 
 **Zadanie 3**
 
@@ -53,6 +55,7 @@
 
 [Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQBQTFnrHzWsTYVoaYs90eydARlLURvHUEU52ExmzpQMC0o?e=OD1AH8)
 
+<br><br>
 
 **Zadanie 4**
 
@@ -74,6 +77,7 @@
 
 [Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQDnCw4p1mGnQZMen2LWPy9IARS3Spm_q0-Ys756fFGVz0c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xzYZhH)
 
+<br><br>
 
 **Zadanie 5**
 
@@ -102,6 +106,7 @@ kliencką na dockerze via docker-compose
 
 [Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQDQIC08bHbjSo2Ahtrk13xJAS2zkokzzNP4YdOU4tNQLvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xJXbV6)
 
+<br><br>
 
 **Zadanie 6**
 
@@ -125,6 +130,7 @@ Obrazy:
 
 [Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQCKONkCA8qNRoQM7SOiew1aAQgnqTt6nbGbOLA5HGlpdJs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8FSECb)
 
+<br><br>
 
 **Zadanie 7**
 
@@ -150,6 +156,7 @@ Obrazy:
 
 [Repozytorium klienta](https://github.com/Ktechnik12/app-client)
 
+<br><br>
 
 **Zadanie 8**
 
@@ -173,6 +180,7 @@ Obrazy:
 
 [Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQB0xKOQIl-2TK0kgoY6kh2HAUcXZhR0MmVM74JTUZHnhzM)
 
+<br><br>
 
 **Zadanie 9**
 
