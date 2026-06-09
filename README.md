@@ -31,7 +31,7 @@
 [Link do commita](https://github.com/Ktechnik12/Zadanie2/commit/49dc12eb7b30060976f4b615fc8f40defdd197d8)
 
 
-[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQCl89wKWtwfRblMFhBy4vLcAaihh67Lbhjf0kSjMjNIapk?e=9XWLf0)
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQCl89wKWtwfRblMFhBy4vLcAfSUzuYGsmtnewXNOyhlaNg?e=vyqWf3)
 
 <br><br>
 
@@ -53,7 +53,7 @@
 [Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/e35aa7815c8f7ecef07153768b0eac53086a25a5)
 
 
-[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQBQTFnrHzWsTYVoaYs90eydARlLURvHUEU52ExmzpQMC0o?e=OD1AH8)
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQBQTFnrHzWsTYVoaYs90eydAfgOu5qvCqsOvn_J0Hk4BEw?e=9PZRG8)
 
 <br><br>
 
@@ -75,7 +75,7 @@
 [Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/55cb6ee1528ab388c269afa613794bdf617c6442)
 
 
-[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQDnCw4p1mGnQZMen2LWPy9IARS3Spm_q0-Ys756fFGVz0c?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xzYZhH)
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQDnCw4p1mGnQZMen2LWPy9IAbAMGQyMieUaty_nIdOseys?e=GrSGPQ)
 
 <br><br>
 
@@ -104,7 +104,7 @@ kliencką na dockerze via docker-compose
 [Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/179d2df7cccd8c0f903ee225b7f4299be3b5ba33)
 
 
-[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQDQIC08bHbjSo2Ahtrk13xJAS2zkokzzNP4YdOU4tNQLvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xJXbV6)
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQDQIC08bHbjSo2Ahtrk13xJARiR5k66dRYtLkNARZ3yUmw?e=gSNjJ5)
 
 <br><br>
 
@@ -128,7 +128,7 @@ Obrazy:
 [Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/27d1ca012a98b07416493a876813cfc1524f4b98)
 
 
-[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQCKONkCA8qNRoQM7SOiew1aAQgnqTt6nbGbOLA5HGlpdJs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=8FSECb)
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQCKONkCA8qNRoQM7SOiew1aAdWN7wl4hpJiO3Gcw_DaVIo?e=kFgyt0)
 
 <br><br>
 
@@ -178,7 +178,7 @@ Obrazy:
 [Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/6fd9c3b038cc33dbc562c70d9eab656a9a63e148)
 
 
-[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQB0xKOQIl-2TK0kgoY6kh2HAUcXZhR0MmVM74JTUZHnhzM)
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQB0xKOQIl-2TK0kgoY6kh2HASMxPmbO-Y7UImHoTycOoWM?e=bCEieh)
 
 <br><br>
 
@@ -202,7 +202,7 @@ Obrazy:
 [Link do commita](https://github.com/Ktechnik12/Zadanie1/commit/9dc53d15d8d1e614c1797eec4710debce2dbeef2)
 
 
-[Nagranie](https://ujchmura-my.sharepoint.com/:f:/g/personal/kacper_krehlik_student_uj_edu_pl/IgBblYTKYo42R77oCLB3bwitAafMtTpZQKGoU_iOEOH3_d0)
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQB4NYWuc2zgSbmEv-AAD3WLAYZZ9dwgd7L1dCbjDnop4Ug?e=3wKaIA)
 
 <br><br>
 
@@ -228,5 +228,5 @@ Obrazy:
 [Link do kodu](https://github.com/Ktechnik12/app-server/tree/zadanie10)
 
 
-[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQBYBIct2OzySKG3VWZBvUaaAS8IcwTF9EnK24weFkcbIVE?e=RNs2FQ)
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQBYBIct2OzySKG3VWZBvUaaAQxYtjMcskWtTuvKjsJva3U?e=eThps3)
 
