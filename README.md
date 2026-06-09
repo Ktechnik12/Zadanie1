@@ -203,3 +203,30 @@ Obrazy:
 
 
 [Nagranie](https://ujchmura-my.sharepoint.com/:f:/g/personal/kacper_krehlik_student_uj_edu_pl/IgBblYTKYo42R77oCLB3bwitAafMtTpZQKGoU_iOEOH3_d0)
+
+<br><br>
+
+**Zadanie 10**
+
+[Obraz serwera z zadanie 7](https://hub.docker.com/repository/docker/ktechnik/zad7-server/general)
+
+:white_check_mark: 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na dockerze
+
+[Link do commita](https://github.com/Ktechnik12/app-server/commit/0d1031f29c81f1636e8cfe6c45e1ffdc50396682)
+
+:white_check_mark: 3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania aplikacji (np. via fatjar)
+
+[Link do commita](https://github.com/Ktechnik12/app-server/commit/f3cb300515ce1be2d8b9a134ff9c7ed0440d4227)
+
+:x: 4.0 Dodać notyfikację mailową o wynikach z sonara
+
+:x: 4.5 Dodać krok z deploymentem aplikacji klienckiej na chmurę (obie ze sobą rozmawiają)
+
+:x: 5.0 Dodać uruchomienie regresyjnych testów automatycznych (funkcjonalnych) jako krok w Actions w Browserstacku
+
+
+[Link do kodu](https://github.com/Ktechnik12/app-server/tree/zadanie10)
+
+
+[Nagranie](https://ujchmura-my.sharepoint.com/:v:/g/personal/kacper_krehlik_student_uj_edu_pl/IQBYBIct2OzySKG3VWZBvUaaAS8IcwTF9EnK24weFkcbIVE?e=RNs2FQ)
+
